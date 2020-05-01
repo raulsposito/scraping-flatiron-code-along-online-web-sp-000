@@ -59,7 +59,3 @@ Scraper.new.print_courses
 
 
 Scraper.new.get_page
->>>>>>> 9484fcb3be1117157ead89ee6af64b0ba754e457
-
-
-#Comment 
